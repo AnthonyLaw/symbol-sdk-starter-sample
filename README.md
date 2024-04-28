@@ -3,7 +3,7 @@
 This repository is a collection of boilerplate code and project setups with symbol-sdk-v3 for both Symbol and NEM, all contributed by the community. Its primary aim is to provide developers with a quick starting point for their projects. You are welcome to add your project to this repository.
 
 # Sample Repository
--------------------
+
 Repository | Framework | Author
 ------------|------------|------------
 [expo-symbol-boilerplate](https://github.com/ymuichiro/expo-symbol-boilerplate) | Expo | [ymuichiro](https://github.com/ymuichiro)
